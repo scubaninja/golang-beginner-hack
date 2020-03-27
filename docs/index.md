@@ -5,7 +5,7 @@ First things first, let's get your environment set up.
 ## Software Installation
 
 Download and install this software onto your Windows machine.
-Accept the defaults unless 
+Accept the defaults unless mentioned.
 
 1. [Visual Studio Code](https://code.visualstudio.com/)
 2. [Git for Windows](https://git-scm.com/download/win)
