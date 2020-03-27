@@ -27,3 +27,5 @@ Then type:
 Now press ```CTRL+P``` again, but this time type:
 
 ```ext install ms-vscode.go```
+
+Now, on to [exercise 1](exercise01-helloworld.md)
