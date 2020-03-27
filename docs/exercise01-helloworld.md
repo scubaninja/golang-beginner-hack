@@ -33,3 +33,5 @@ API server listening at: 127.0.0.1:29386
 hello world
 Process exiting with code: 0
 ```
+
+Now, on to [exercise 1](exercise01-helloworld.md)
