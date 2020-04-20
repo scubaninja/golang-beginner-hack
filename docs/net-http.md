@@ -4,7 +4,7 @@
 The standard library in go comes with the ```net/http``` package, which is an excellent starting point for building RestAPIs.
 Understanding the net/http package is crucial to using golang for RestAPIs, even if using a 3rd party package to extend the feature set.
 
-https://golang.org/pkg/net/http/
+<https://golang.org/pkg/net/http/>
 
 ## Example
 
@@ -141,11 +141,4 @@ func main() {
 }
 ```
 
-You can see the way Gorilla Mux can parameterise the {userID} and {commentID}.
-
-## The BookData API
-
-Clone the repo <REPO> and examine the workings of the API.
-It contains a set of book data baked into the source code and a single method ```/api/v1/books``` to return the data as JSON.
-
-## Your Task
+You can see the way Gorilla Mux can parameterise the ```{userID}``` and ```{commentID}``` and pass them into the ```params``` function.

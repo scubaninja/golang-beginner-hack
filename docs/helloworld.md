@@ -1,4 +1,4 @@
-# Exercise 1 - Hello World
+# Hello World
 
 > This exercise will ensure that you have all the tools you need to progress through the rest of the hack
 

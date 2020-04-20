@@ -2,6 +2,10 @@
 
 First things first, let's get your environment set up.
 
+## Online Accounts
+
+You will need a GitHub account for this, please ensure you have one. One member of your team will fork the repo and invite the others as collaborators.
+
 ## Software Installation
 
 Download and install this software onto your Windows machine.
@@ -10,9 +14,11 @@ Accept the defaults unless mentioned.
 1. [Visual Studio Code](https://code.visualstudio.com/)
 2. [Git for Windows](https://git-scm.com/download/win)
    * Ensure the default editor is Visual Studio Code
- 
+
 3. [Go for Windows](https://golang.org/dl/)
-4. [Windows Terminal](ms-windows-store://pdp?productId=9N0DX20HK701) (recommended)
+4. [Postman](https://www.postman.com/downloads/)
+5. [Docker for Windows](https://download.docker.com/win/stable/Docker%20Desktop%20Installer.exe)
+6. [Windows Terminal](ms-windows-store://pdp?productId=9N0DX20HK701) (recommended)
 
 ## Set-Up Visual Studio Code
 
@@ -22,10 +28,11 @@ Search for and install the following extensions.
 First press ```CTRL+p``` to enter *quick open*.
 Then type:
 
-```ext install MS-vsliveshare.vsliveshare```
-
-Now press ```CTRL+P``` again, but this time type:
-
 ```ext install ms-vscode.go```
 
-Now, on to [exercise 1](exercise01-helloworld.md)
+Repeat this process and install:
+
+* ```ms-vscode-remote.vscode-remote-extensionpack```
+* ```ms-azuretools.vscode-docker```
+
+Now, let's test your installation [hello world](helloworld.md)
