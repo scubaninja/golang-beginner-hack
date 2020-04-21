@@ -19,8 +19,9 @@ You will be sent a link to the code, one team member must fork the repo and invi
 
 Your task is to demonstrate understanding of the code.
 
-Success criteria:
+## Success criteria
 
 * You can explain to your coach how the code works
 * You can compile and run the code using ```go build```
+* You can use Postman to query your API
 * You can successfully debug the code and set a breakpoint in VS code
