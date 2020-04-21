@@ -1,6 +1,5 @@
-# BookData Api
+# net/http
 
-## net/http
 The standard library in go comes with the ```net/http``` package, which is an excellent starting point for building RestAPIs.
 Understanding the net/http package is crucial to using golang for RestAPIs, even if using a 3rd party package to extend the feature set.
 
