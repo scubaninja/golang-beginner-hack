@@ -33,3 +33,5 @@ API server listening at: 127.0.0.1:29386
 hello world
 Process exiting with code: 0
 ```
+
+Next, let's look at the [bookdata-api challenge 1](bookdata-01.md)
