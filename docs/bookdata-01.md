@@ -22,6 +22,10 @@ Consider how you will each work on the code and how you will manage co-editing.
 
 Your task is to demonstrate understanding of the code.
 
+## Hints
+
+* Have a look at [this explainer](net-http.md) on ```net/http```.
+
 ## Success criteria
 
 * You can explain to your coach how the code works
