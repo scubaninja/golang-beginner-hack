@@ -19,3 +19,5 @@ This should be read once at start-up, then the rest of the operations will conti
 
 * The CSV file is read into memory
 * The executable outputs how long the read operations took
+
+Next, let's look at the [bookdata-api challenge 3](bookdata-03.md)
