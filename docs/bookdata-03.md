@@ -1,6 +1,6 @@
 # Bookdata-api Challenge 3
 
-Your have been asked to add some features to your API :)
+You have been asked to add some features to your API :)
 
 ## Task
 
