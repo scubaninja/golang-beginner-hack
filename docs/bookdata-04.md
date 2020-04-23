@@ -20,4 +20,4 @@ Generate a Dockerfile for your API. The Docker image should contain only what is
 How small can you make your image? <200MB? <100MB? <50MB?? <10MB?? (Yes, it can be done).
 What are the advantages and disadvantages of optimising to this extent?
 
-If you've completed this, then [Congratulations!](congratulations.md)
+If you've completed this, then [Congratulations!](Congratulations.md)
