@@ -10,7 +10,7 @@ Add the following additional methods onto the API:
 * Search by Title/Book Name, again using a partial match. E.g. ```/books/title/harry``` would match the Harry Potter... series of books
 * Search by ISBN. should only return an exact match. E.g. ```/book/isbn/{isbn}```
 * Create new book. E.g. HTTP POST to ```/book``` using a form
-* Delete book by ISBN. E.g. HTTP DELETE to ```/book/isbn/{isbn}
+* Delete book by ISBN. E.g. HTTP DELETE to ```/book/isbn/{isbn}```
 
 ## Hints
 
