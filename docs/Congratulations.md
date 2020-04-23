@@ -14,5 +14,5 @@ Please could we ask you to give some feedback. There are only 3 questions and it
 
 If you are really stuck for something to do, or you want to take this forward, then why not try the following:
 
-* Implement API paging, limit the max output size and includein the results a link to the next 'page'
+* Implement API paging, limit the max output size and include in the results a link to the next 'page'
 * Change the backend for MongoDB - this can be on Azure (CosmodDB) or locally using the Docker image
