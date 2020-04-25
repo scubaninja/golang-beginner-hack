@@ -12,6 +12,18 @@ History of Go & Go on Azure
 
 ---
 
+# In Preview
+
+![bg right:60% contain](https://www.thesprucepets.com/thmb/BaQm4xIhuaJ3DPcx777bC1Ll7cM=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/dog-food-144564301-resized-1-56a26ad43df78cf7727563d1.jpg)
+
+```golang
+thisHack := !perfect
+```
+
+> Your feedback is critical to assessing value
+
+---
+
 # History of Go
 
 Conceived in 2007 at Google

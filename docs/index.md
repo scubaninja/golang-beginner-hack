@@ -34,5 +34,6 @@ Repeat this process and install:
 
 * ```ms-vscode-remote.vscode-remote-extensionpack```
 * ```ms-azuretools.vscode-docker```
+* ```ms-vsliveshare.vsliveshare```
 
 Now, let's test your installation [hello world](helloworld.md)
