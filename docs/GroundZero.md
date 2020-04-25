@@ -19,13 +19,13 @@ Learning loops is a key skill with learning almost any programming language.  Th
 
 2. Exercism will provide you a step by step walk through, as well as the ability to run the exercise locally on your machine.  We would suggest you download the exercises with their download link provided: 
 
-exercism download --exercise=scrabble-score --track=go
+        exercism download --exercise=scrabble-score --track=go
 
 3. Start learning!
 
 4. Once you've completed the learning module, submit your solution:
 
-exercism submit /path/to/file [/path/to/file2 ...]
+        exercism submit /path/to/file [/path/to/file2 ...]
 
 5. Exercism will find a mentor to give you feedback on your solution, this could take 15 minutes, or a day (depends on availability). Your solution may require a few touch ups, that's okay :)  While we're working in a hack, we realize a solution may not come as quickly as we would like.  Copy your solution and submit to a coach as well as the Exercism mentoring system.  You are welcome to submit a solution as a team, a pair, or as an individual.  
 
@@ -46,11 +46,11 @@ Learning loops is a key skill with learning almost any programming language.  Th
 
 2. Similar to Learning Module 1, download the task:
 
-exercism download --exercise=proverb --track=go
+        exercism download --exercise=proverb --track=go
 
 3. Complete the task in your teams, pair, or individually if you prefer.  Submit your code to Exercism: 
 
-exercism submit /path/to/file [/path/to/file2 ...]
+        exercism submit /path/to/file [/path/to/file2 ...]
 
 4. Please share your solution with a coach
 
@@ -58,6 +58,6 @@ exercism submit /path/to/file [/path/to/file2 ...]
 
 Congratulations !  You've completed the first 2 learning modules! There is a lot to learn in a new programming language, learning things like 'hello world' can get a bit dull.  We hope that you enjoyed the modules.  We would love feedback on them at the end of the hack.
 
-To progress and begin the challenge, please start at Hello World [docs\helloworld.md]
+To progress and begin the challenge, please start at [Hello World](docs\helloworld.md)
 
 You will be given all of the directions, and tools you need!  Good luck!
