@@ -14,7 +14,7 @@ Introduction and Logistics
 
 # Schedule - Day 1
 
-| Time | Beginner | Intermediate |
+| Time (GMT+1) | Beginner | Intermediate |
 |-|-|-|
 | 9:30 | Official start time - welcome and intros | <- |
 | 10:00 | Choose your adventure & sort into teams | <- |
@@ -24,8 +24,6 @@ Introduction and Logistics
 | 13:45 | Hacking | Hacking |
 | 16:00 | Official end time |
 
-> Times are UK daylight savings time, GMT+1
-
 --- 
 
 # Schedule - Day 2
@@ -33,20 +31,30 @@ Introduction and Logistics
 | Time | Description |
 |-|-|
 | 9:30 | Official start time |
-| 16:00 | Official end time |
+| 15:30 | Social event |
 
 > Times are UK daylight savings time, GMT+1
+
+---
+
+# Coaches
+
+- April Edwards
+- Ben Coleman
+- Gabriel Nepomuceno
+- Matt White
 
 ---
 <!-- _class: !invert -->
 
 # Collaboration
 
-![height:250](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png)
-If you're not in the team, join using this code:
->```dta9c2q```
+![height:170](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png)
+If you're not in the team, join using this code: ```dta9c2q```
 
-Find your team channel and pin it. Have a permanent video call going in this channel. Your coach will be joining here to check in every so often.
+- Find your team channel and pin it
+- Have a permanent video call going in this channel
+- Turn off Preview slider to get 6-way video calling
 
 ---
 

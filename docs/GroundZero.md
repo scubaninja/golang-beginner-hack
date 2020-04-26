@@ -58,6 +58,6 @@ Learning loops is a key skill with learning almost any programming language.  Th
 
 Congratulations !  You've completed the first 2 learning modules! There is a lot to learn in a new programming language, learning things like 'hello world' can get a bit dull.  We hope that you enjoyed the modules.  We would love feedback on them at the end of the hack.
 
-To progress and begin the challenge, please start at [Hello World](docs\helloworld.md)
+To progress and begin the challenge, please start at [Hello World](helloworld.md)
 
 You will be given all of the directions, and tools you need!  Good luck!

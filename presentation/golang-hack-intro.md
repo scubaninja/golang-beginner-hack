@@ -102,7 +102,6 @@ Alright, so we aren't always dealing with organisations like Netflix, so who els
 ![height:100](https://consumer-component-library.roocdn.com/19.14.0/static/images/logo-white.ab7fec09c226528ad294a56a53bf5ea6.svg) ![height:100](https://images.metadata.sky.com/pd-image/f97e2aee-7363-47de-90ef-4a86bdc24e2e/16-9/900) ![height:100](https://assets.publishing.service.gov.uk/static/opengraph-image-a1f7d89ffd0782738b1aeb0da37842d8bd0addbd724b8e58c3edbc7287cc11de.png) ![height:100](https://monzo.com/static/images/blog/2016-08-25-monzo/monzo.png)
 
 ![height:100](https://www.sainsburys.co.uk/assets/images/logos_logoImage_5TrheyQtjk6OXYZV6GvC1R_sainsburys-logo.svg) ![height:100](https://airports.ie/wp-content/uploads/2016/03/ryanair-logo-2015-version.jpg)
-![height:100](https://blueandgreentomorrow.com/wp-content/uploads/2013/11/new-lush-logo.jpg)
 
 This has a UK focus, but loads more here:
 
@@ -124,9 +123,11 @@ Where might we see issues?
 
 # Aim of this Hack
 
-We are not out to **force** people to use Go
 
-Through education, we want to convince them to **consider** using Go if it's a good fit
+* Expand the community of Gophers at Microsoft
+* We are not out to **force** customers to use Go, through education, we want to convince them to **consider** using Go if it's a good fit
+
+
 
 ---
 

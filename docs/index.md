@@ -36,4 +36,8 @@ Repeat this process and install:
 * ```ms-azuretools.vscode-docker```
 * ```ms-vsliveshare.vsliveshare```
 
-Now, let's test your installation [hello world](helloworld.md)
+## Next Steps
+
+You now have a choice. You can start with a couple of warm up exercises in [ground zero](GroundZero.md)...
+
+Or, you can get start the hack with [hello world](helloworld.md)
