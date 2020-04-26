@@ -7,7 +7,7 @@ More importantly if you're comfortable with the concepts then you're ready to pr
 
 For n00bs, we have 2 learning tasks that you can complete on day 1 of the hack.  We've chosen some fun tasks to help you learn.  You can complete this as a team or paired up with someone to a similar skill set.  This hack is all about learning and community, so get hacking!
 
-For the next two exercises you will need to create an Exercism account: <https://exercism.io/>
+For the next two exercises you will need to create an Exercism account: <https://exercism.io/>. Please also follow the CLI setup guide here: <https://exercism.io/cli-walkthrough>
 
 When we setup this hack we fond lots of people could get to 'hello world!' then were not sure where to go.  So we've setup 2 exercises that you will allow you to learn some fundamentals before Challenge 1 (What you learn in these learning modules are not required, but cover off some learning that we think will benefit you in the long term).  These modules are NOT mandatory, if you feel your team understands the concepts outline below, please review each module and confirm with a coach that you're comfortable with the skills to move onto Challenge 1
 
